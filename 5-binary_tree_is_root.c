@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * binary_tree_is_root - checks if a node is the root node
  * @node: node to be checked
