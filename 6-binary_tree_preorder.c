@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * binary_tree_preorder - search through the tree in preorder
  * @tree: tree to be search
